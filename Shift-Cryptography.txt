@@ -1,0 +1,9 @@
+1.At first we take key k .
+2.then take message string str to encript.
+3.then we run a for loop to find encripted message String E.
+3.E[i]=( str[i] + key ) mod 26.
+4.then E will be the encripted message.
+5.then we take a message string str1 to decript.
+6.then we run a for loop to find decripted message String D.
+7.D[i]=( str[i] - key ) mod 26
+8.then D will be the decripted message
